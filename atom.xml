@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://esphv.github.io/atom.xml" rel="self"/>
-  <link href="http://esphv.github.io/"/>
-  <updated>2013-08-25T23:53:24+08:00</updated>
-  <id>http://esphv.github.io/</id>
+  <title><![CDATA[Every Spread Has Value]]></title>
+  <link href="http://esphv.github.com/atom.xml" rel="self"/>
+  <link href="http://esphv.github.com/"/>
+  <updated>2013-08-26T00:23:31+08:00</updated>
+  <id>http://esphv.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Ezio]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>

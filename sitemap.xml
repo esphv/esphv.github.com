@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://esphv.github.io/blog/archives/</loc>
+        <loc>http://esphv.github.com/blog/archives/</loc>
         <lastmod>2013-08-25T23:27:44+08:00</lastmod>
     </url>
     <url>
-        <loc>http://esphv.github.io/</loc>
+        <loc>http://esphv.github.com/</loc>
         <lastmod>2013-08-25T23:27:44+08:00</lastmod>
     </url>
     <url>
-        <loc>http://esphv.github.io/robots.txt</loc>
+        <loc>http://esphv.github.com/robots.txt</loc>
         <lastmod>2013-08-25T23:27:44+08:00</lastmod>
     </url>
 </urlset>
