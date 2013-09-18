@@ -1,0 +1,9 @@
+---
+layout: post
+title: "挪窝"
+date: 2013-08-26 01:01
+comments: true
+categories: 
+---
+我的博客即将迁移至此。
+          --Ezio
